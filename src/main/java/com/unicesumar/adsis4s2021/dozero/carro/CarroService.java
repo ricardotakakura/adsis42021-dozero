@@ -32,7 +32,7 @@ public class CarroService {
 
 
 	public void atualizar(Carro carro) {
-		if (repo.findById(carro.getId()).isEmpty()) {
+		if (!repo.findById(carro.getId()).isPresent()) {
 			throw new RegistroNãoExistente();
 		}
 		repo.save(carro);
