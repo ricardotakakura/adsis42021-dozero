@@ -11,7 +11,7 @@ public class Comida {
 
 	@Id
 	private String id;
-	//a
+	
 	@Column(nullable = false)
 	private String igredientes;
 
