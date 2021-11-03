@@ -10,7 +10,6 @@ import org.springframework.stereotype.Service;
 
 import com.unicesumar.adsis4s2021.dozero.base.RegistroJáExistente;
 import com.unicesumar.adsis4s2021.dozero.base.RegistroNãoExistente;
-import com.unicesumar.adsis4s2021.dozero.carro.Carro;
 
 @Service
 @Transactional
