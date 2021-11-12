@@ -10,4 +10,5 @@ import com.unicesumar.adsis4s2021.dozero.base.BaseCrudService;
 @Transactional
 public class CelularService extends BaseCrudService<Celular, CelularRepository>{
 
+	
 }
