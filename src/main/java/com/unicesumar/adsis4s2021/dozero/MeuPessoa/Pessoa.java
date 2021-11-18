@@ -1,4 +1,4 @@
-package com.unicesumar.adsis4s2021.dozero.pessoa;
+package com.unicesumar.adsis4s2021.dozero.MeuPessoa;
 
 import java.util.ArrayList;
 import java.util.List;
