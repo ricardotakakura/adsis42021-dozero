@@ -1,4 +1,4 @@
-package com.unicesumar.adsis4s2021.dozero.MeuPessoa;
+package com.unicesumar.adsis4s2021.dozero.EuPessoa;
 
 import javax.transaction.Transactional;
 
